@@ -1,0 +1,197 @@
+[
+    {
+        "titulo": "EL EXORCISTA",
+        "descripcion": "El Exorcista es una película de terror estadounidense de 1973 dirigida por William Friedkin y escrita por William Peter Blatty. La trama sigue los eventos paranormales que rodean la posesión demoníaca de una joven y los esfuerzos de un sacerdote y un equipo de exorcistas para liberarla de la influencia maligna. La película es ampliamente considerada como una de las mejores y más aterradoras películas de terror de todos los tiempos.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA NOCHE DE HALLOWEEN",
+        "descripcion": "La Noche de Halloween es una película de terror slasher dirigida por John Carpenter, que sigue al asesino en serie Michael Myers mientras persigue a un grupo de adolescentes en la noche de Halloween. La película es considerada una de las precursoras del género slasher y ha inspirado numerosas secuelas y remakes.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL PROYECTO DE LA BRUJA DE BLAIR",
+        "descripcion": "El Proyecto de la Bruja de Blair es una película de terror de metraje encontrado dirigida por Daniel Myrick y Eduardo Sánchez. La trama sigue a un grupo de jóvenes cineastas que desaparecen mientras filman un documental sobre una leyenda local de brujería en el bosque de Maryland. La película se destaca por su enfoque innovador y su capacidad para crear una atmósfera de terror con un presupuesto limitado.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "SAW (Saga)",
+        "descripcion": "Saw es una saga de películas de terror dirigidas por James Wan, que sigue a un ingenioso asesino conocido como Jigsaw que coloca a sus víctimas en elaboradas trampas mortales. Las películas están llenas de giros sorprendentes y han ganado una base de fans dedicada debido a su combinación de terror y suspenso.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "PARANORMAL ACTIVITY (Saga)",
+        "descripcion": "Paranormal Activity es una saga de películas de terror de metraje encontrado dirigida por Oren Peli. La trama sigue a una pareja que experimenta eventos paranormales en su hogar y decide documentarlos con una cámara de video. Las películas se caracterizan por su enfoque minimalista y su capacidad para generar miedo a partir de la sugerencia y la atmósfera.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "REC (Saga)",
+        "descripcion": "Rec es una saga de películas de terror de origen español dirigida por Jaume Balagueró y Paco Plaza. La trama sigue a un equipo de reporteros que se encuentran atrapados en un edificio infectado por un misterioso virus que transforma a las personas en criaturas violentas. Las películas son conocidas por su estilo de metraje encontrado y su intensa atmósfera de terror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL EXORCISMO DE EMILY ROSE",
+        "descripcion": "El Exorcismo de Emily Rose es una película de terror legal dirigida por Scott Derrickson y protagonizada por Laura Linney y Tom Wilkinson. La trama sigue a una abogada que defiende a un sacerdote acusado de homicidio por la muerte de una joven durante un exorcismo. La película combina elementos de terror sobrenatural con un drama legal y está inspirada en eventos reales.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL ORFANATO",
+        "descripcion": "El Orfanato es una película de terror española dirigida por J.A. Bayona y producida por Guillermo del Toro. La trama sigue a una mujer que regresa al orfanato donde creció con la intención de convertirlo en un hogar para niños discapacitados. Sin embargo, eventos sobrenaturales comienzan a ocurrir, y ella descubre secretos oscuros sobre el pasado del lugar. La película es aclamada por su atmósfera inquietante y su narrativa emotiva.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA MALDICIÓN DE HILL HOUSE",
+        "descripcion": "La Maldición de Hill House es una serie de terror sobrenatural creada por Mike Flanagan para Netflix. La trama sigue a los miembros de la familia Crain mientras lidian con los traumas de su pasado y los eventos sobrenaturales que ocurrieron en su antigua casa, Hill House. La serie combina horror psicológico con drama familiar y es elogiada por su narrativa compleja y personajes bien desarrollados.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EXTRATERRESTRE",
+        "descripcion": "Extraterrestre es una película de terror y ciencia ficción dirigida por Nacho Vigalondo. La trama sigue a un grupo de personas que se despiertan después de una noche de fiesta para descubrir que una nave espacial extraterrestre ha aparecido en el cielo. A medida que la tensión aumenta, comienzan a surgir secretos y traiciones entre ellos. La película es conocida por su enfoque único en el género de invasión alienígena.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA BRUJA",
+        "descripcion": "La Bruja es una película de terror sobrenatural dirigida por Robert Eggers, ambientada en Nueva Inglaterra en el siglo XVII. La trama sigue a una familia que se muda a un área remota cerca de un bosque oscuro, donde eventos perturbadores comienzan a ocurrir, incluida la desaparición de su hijo recién nacido. La película es aclamada por su atmósfera inquietante y su autenticidad histórica.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA CASA DEL DIABLO",
+        "descripcion": "La Casa del Diablo es una película de terror dirigida por Ti West. La trama sigue a una joven que acepta un trabajo como niñera en una casa remota, solo para descubrir que las cosas no son lo que parecen. A medida que la noche avanza, eventos terroríficos comienzan a desplegarse, poniendo su vida en peligro. La película es conocida por su estilo retro y su homenaje a las películas de terror de la década de 1980.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "VIVO",
+        "descripcion": "Vivo es una película de terror y suspenso dirigida por Cho Il-hyung. La trama sigue a un joven que se encuentra atrapado en su departamento mientras un virus mortal se propaga por la ciudad. Con la comunicación cortada y el suministro de alimentos agotándose, debe encontrar una manera de sobrevivir mientras enfrenta amenazas tanto dentro como fuera de su hogar. La película es conocida por su tensión constante y su enfoque claustrofóbico.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL DESCENSO",
+        "descripcion": "El Descenso es una película de terror dirigida por Neil Marshall. La trama sigue a un grupo de mujeres que se aventuran en una cueva subterránea en busca de emociones fuertes, solo para descubrir que no están solas. Pronto se encuentran luchando por sus vidas contra criaturas humanoides que habitan en las profundidades de la cueva. La película es conocida por su claustrofobia y sus escenas intensas de terror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA MONJA",
+        "descripcion": "La Monja es una película de terror sobrenatural y parte del universo cinematográfico de El Conjuro. Dirigida por Corin Hardy, la trama sigue a un sacerdote y una novicia que son enviados por el Vaticano para investigar el suicidio de una monja en Rumania. Pronto descubren una fuerza malévola que se manifiesta en la forma de una monja demoníaca. La película es conocida por su atmósfera inquietante y sus escenas de horror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "VERONICA",
+        "descripcion": "Verónica es una película de terror sobrenatural dirigida por Paco Plaza, inspirada en una historia real ocurrida en Madrid en la década de 1990. La trama sigue a una joven que intenta hacer contacto con su difunto padre a través de un tablero de ouija con sus amigas, pero desencadena una serie de eventos terroríficos que amenazan con consumirla. La película es conocida por su atmósfera inquietante y sus intensas escenas de horror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL LABERINTO DEL FAUNO",
+        "descripcion": "El Laberinto del Fauno es una película de fantasía oscura dirigida por Guillermo del Toro. La trama sigue a una niña llamada Ofelia que se encuentra en la España de posguerra y se sumerge en un mundo de fantasía lleno de criaturas mágicas y peligrosas. La película entrelaza la realidad y la fantasía de una manera única y está llena de elementos de terror y suspenso.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "BIRD BOX",
+        "descripcion": "Bird Box es una película de terror y ciencia ficción dirigida por Susanne Bier, basada en la novela del mismo nombre. La trama sigue a una mujer y a sus dos hijos mientras luchan por sobrevivir en un mundo postapocalíptico invadido por entidades misteriosas que inducen a las personas a cometer suicidio si las ven. La película es conocida por su atmósfera tensa y sus momentos de suspenso.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LOS HEREDEROS DEL DIABLO",
+        "descripcion": "Los Herederos del Diablo es una película de terror y metraje encontrado dirigida por Matt Bettinelli-Olpin y Tyler Gillett. La trama sigue a una pareja que descubre que está esperando gemelos, pero las cosas toman un giro siniestro cuando su hijo no nacido se convierte en el centro de una secta satánica. La película es conocida por su estilo realista y su capacidad para generar miedo a partir de lo mundano.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "HUSH",
+        "descripcion": "Hush es una película de terror y suspenso dirigida por Mike Flanagan. La trama sigue a una escritora sorda que vive en una cabaña aislada en el bosque, y que se convierte en el objetivo de un enmascarado asesino. Con la incapacidad para escuchar lo que se acerca, ella debe encontrar formas ingeniosas de defenderse y sobrevivir. La película destaca por su originalidad y sus intensos momentos de tensión.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL RITUAL",
+        "descripcion": "El Ritual es una película de terror sobrenatural dirigida por David Bruckner, basada en la novela de Adam Nevill. La trama sigue a un grupo de amigos que se aventuran en los densos bosques de Suecia para honrar a un amigo fallecido, pero pronto se encuentran perseguidos por una presencia oscura y sobrenatural. La película es elogiada por su atmósfera inquietante y sus efectos visuales impresionantes.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "MAMA",
+        "descripcion": "Mamá es una película de terror sobrenatural producida por Guillermo del Toro y dirigida por Andrés Muschietti. La trama sigue a dos niñas que fueron abandonadas en un bosque durante cinco años y luego son rescatadas y llevadas a vivir con sus tíos. Sin embargo, pronto descubren que algo malévolo las sigue desde el bosque. La película es conocida por sus efectos especiales y su atmósfera de terror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "BATES MOTEL (Saga)",
+        "descripcion": "Bates Motel es una serie de televisión de terror psicológico y drama, que sirve como precuela contemporánea de la película Psicosis de Alfred Hitchcock. La trama sigue a Norma Bates y a su hijo adolescente, Norman, mientras se trasladan a un motel en un pequeño pueblo y luchan por superar los oscuros secretos de su pasado. La serie es conocida por su intrincada narrativa y sus personajes complejos.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL HOYO",
+        "descripcion": "El Hoyo es una película de ciencia ficción y terror social española dirigida por Galder Gaztelu-Urrutia. La trama se desarrolla en una prisión vertical donde los reclusos están distribuidos en diferentes niveles, y cada nivel recibe comida de una plataforma que desciende lentamente. A medida que la película avanza, la situación se vuelve cada vez más desesperada y brutal. La película es conocida por su premisa única y su crítica social.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "IT (Saga)",
+        "descripcion": "It es una saga de películas de terror basadas en la novela de Stephen King del mismo nombre. La historia sigue a un grupo de niños en el pequeño pueblo de Derry, Maine, que se enfrentan a un ser malévolo que toma la forma de Pennywise, el payaso. A medida que crecen, regresan a Derry para enfrentarse a sus miedos nuevamente. Las películas son conocidas por su atmósfera inquietante y su interpretación del terror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "TRAIN TO BUSAN",
+        "descripcion": "Train to Busan es una película de terror y acción surcoreana dirigida por Yeon Sang-ho. La trama sigue a un grupo de pasajeros en un tren de alta velocidad que deben luchar por sus vidas cuando una infección viral convierte a las personas en zombis. La película es elogiada por su ritmo frenético, sus emocionantes escenas de acción y su enfoque en los personajes.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL ARO",
+        "descripcion": "El Aro es una película de terror sobrenatural dirigida por Gore Verbinski, basada en la película japonesa del mismo nombre. La trama sigue a una periodista que investiga una cinta de video maldita que, según se dice, mata a cualquiera que la vea una semana después. A medida que profundiza en el misterio, descubre una verdad aterradora sobre el origen de la cinta. La película es conocida por su atmósfera inquietante y sus escalofriantes momentos.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "THE WITCHER",
+        "descripcion": "The Witcher es una serie de televisión de fantasía oscura y terror, basada en la serie de libros de Andrzej Sapkowski. La trama sigue al cazador de monstruos Geralt de Rivia mientras navega por un mundo oscuro y peligroso lleno de criaturas sobrenaturales y conflictos políticos. La serie es elogiada por su compleja narrativa y sus impresionantes efectos visuales.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LOS 100",
+        "descripcion": "Los 100 es una serie de televisión de ciencia ficción y terror, ambientada en un futuro distópico donde la Tierra ha sido devastada por la radiación y la humanidad vive en una estación espacial. La trama sigue a un grupo de jóvenes delincuentes que son enviados de regreso a la Tierra para determinar si es habitable nuevamente. La serie es conocida por su acción emocionante y sus giros inesperados.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "THE BABYSITTER",
+        "descripcion": "The Babysitter es una película de terror y comedia dirigida por McG. La trama sigue a un joven que descubre que su atractiva niñera es parte de un culto satánico y está dispuesta a todo para mantenerlo en secreto. La película es conocida por su mezcla única de humor y terror, junto con escenas de acción sangrientas y divertidas.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "VERONICA",
+        "descripcion": "Verónica es una película de terror sobrenatural dirigida por Paco Plaza. Basada en eventos reales, la trama sigue a una adolescente que intenta contactar a su difunto padre a través de un tablero de ouija, pero desencadena fuerzas malignas que amenazan con destruirla. La película es conocida por su atmósfera inquietante y su impactante interpretación de terror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "MALIGNO",
+        "descripcion": "Maligno es una película de terror y suspenso dirigida por James Wan. La trama sigue a una mujer que comienza a experimentar visiones aterradoras de asesinatos violentos, que luego descubre que están vinculadas a un trauma de su infancia. A medida que investiga más a fondo, se enfrenta a una fuerza malévola que amenaza con destruir todo lo que ama. La película es conocida por su atmósfera inquietante y sus giros sorprendentes.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "30 DÍAS DE NOCHE",
+        "descripcion": "30 Días de Noche es una película de terror dirigida por David Slade, basada en el cómic del mismo nombre. La trama sigue a un pequeño pueblo en Alaska que queda sumido en la oscuridad durante un mes completo, atrayendo a un grupo de vampiros que buscan cazar sin ser detectados. La película es conocida por su atmósfera gélida y su enfoque implacable en el horror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "CREEP",
+        "descripcion": "Creep es una película de terror y suspenso dirigida por Patrick Brice. La trama sigue a un camarógrafo que responde a un anuncio para filmar a un hombre en su cabaña en el bosque. Sin embargo, a medida que avanza el día, el comportamiento del hombre se vuelve cada vez más extraño y perturbador. La película es conocida por su atmósfera claustrofóbica y sus momentos de tensión psicológica.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "INSIDIOUS (Saga)",
+        "descripcion": "Insidious es una saga de películas de terror sobrenatural dirigidas por James Wan y escritas por Leigh Whannell. La trama sigue a una familia que se ve atormentada por espíritus malignos y fuerzas sobrenaturales que acechan en el reino de los sueños. La saga es conocida por su atmósfera inquietante, sus efectos visuales impactantes y sus giros de trama sorprendentes.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL SILENCIO",
+        "descripcion": "El Silencio es una película de terror y ciencia ficción dirigida por John R. Leonetti, basada en la novela del mismo nombre. La trama sigue a una familia que debe vivir en total silencio para evitar ser cazada por criaturas mortales que son atraídas por el sonido. La película es conocida por su atmósfera tensa y sus escenas de suspenso.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "EL PASAJE DEL TERROR",
+        "descripcion": "El Pasaje del Terror es una película de terror y supervivencia dirigida por David F. Sandberg. La trama sigue a una joven que sufre de parálisis del sueño y debe enfrentarse a una entidad aterradora que la persigue en sus sueños. A medida que lucha por descubrir la verdad detrás de sus terrores nocturnos, se enfrenta a una batalla por su propia cordura y supervivencia. La película es conocida por su atmósfera inquietante y sus escalofriantes momentos de horror.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "SLEEPY HOLLOW",
+        "descripcion": "Sleepy Hollow es una película de terror gótico dirigida por Tim Burton y basada en el cuento corto \"La leyenda de Sleepy Hollow\" de Washington Irving. La trama sigue al detective Ichabod Crane mientras investiga una serie de asesinatos en el pueblo de Sleepy Hollow, que se rumorea están vinculados a un jinete decapitado y una maldición ancestral. La película es conocida por su estética visual única y su atmósfera de cuento de hadas oscuro.",
+        "genero": "Terror"
+    },
+    {
+        "titulo": "LA PROFECÍA",
+        "descripcion": "La Profecía es una película de terror sobrenatural dirigida por Richard Donner. La trama sigue a un diplomático y su esposa que adoptan a un niño huérfano que, sin saberlo, es el anticristo. A medida que el niño crece, comienzan a ocurrir una serie de eventos extraños y mortales que llevan a una batalla entre el bien y el mal. La película es conocida por su atmósfera inquietante y sus momentos de horror impactantes.",
+        "genero": "Terror"
+    }
+]

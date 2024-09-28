@@ -1,0 +1,117 @@
+[
+    {
+        "titulo": "TITANIC",
+        "descripcion": "Titanic es una película épica de romance y drama dirigida por James Cameron. La trama sigue a dos jóvenes de diferentes clases sociales que se enamoran a bordo del trasatlántico RMS Titanic durante su trágico viaje inaugural. La película es conocida por su espectacularidad visual, su emocionante historia de amor y su tragedia inevitable.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "LOVE ACTUALLY",
+        "descripcion": "Love Actually es una comedia romántica dirigida por Richard Curtis que sigue a varias historias entrelazadas de amor y relaciones en la víspera de Navidad en Londres. La película cuenta con un elenco estelar y ofrece una mirada conmovedora y humorística a diferentes aspectos del amor, desde el romance hasta la amistad y la familia.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "ORGULLO Y PREJUICIO",
+        "descripcion": "Orgullo y Prejuicio es una adaptación cinematográfica de la aclamada novela de Jane Austen, dirigida por Joe Wright. La trama sigue a Elizabeth Bennet, una mujer inteligente y de espíritu libre, mientras navega por las complejidades del amor y la sociedad en la Inglaterra del siglo XIX. La película es conocida por su romance cautivador y su representación de la lucha contra el prejuicio social.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "BAJO EL SOL DE LA TOSCANA",
+        "descripcion": "Bajo el Sol de la Toscana es una película de romance y comedia dirigida por Audrey Wells. La trama sigue a una escritora que compra una villa en la campiña italiana como un cambio de vida después de un doloroso divorcio. A medida que se adapta a su nueva vida, encuentra el amor y la felicidad en lugares inesperados. La película es conocida por su hermosa ambientación en la Toscana y su encantadora historia de redescubrimiento personal.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "SI DECIDO QUEDARME",
+        "descripcion": "Si Decido Quedarme es una película de romance y drama dirigida por R.J. Cutler, basada en la novela de Gayle Forman. La trama sigue a una joven músico que, después de sobrevivir a un accidente automovilístico que deja a su familia en estado de coma, debe tomar decisiones difíciles sobre su futuro. La película es conocida por su emotiva historia de amor y pérdida, así como por su poderosa actuación.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "LA LA LAND",
+        "descripcion": "La La Land es una película musical de romance dirigida por Damien Chazelle. La trama sigue a Mia, una aspirante a actriz, y a Sebastian, un pianista de jazz, mientras se enamoran y persiguen sus sueños en la ciudad de Los Ángeles. La película es conocida por su espectacularidad visual, su música pegajosa y su historia de amor nostálgica.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "COMO SI FUERA LA PRIMERA VEZ",
+        "descripcion": "Como Si Fuera la Primera Vez es una comedia romántica dirigida por Peter Segal. La trama sigue a un veterinario que se enamora de una mujer con pérdida de memoria a corto plazo, lo que hace que olvide cada día lo que sucede. Para ganarse su corazón, él debe conquistarla todos los días como si fuera la primera vez. La película es conocida por su ternura y su humor encantador.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "LA CASA DEL LAGO",
+        "descripcion": "La Casa del Lago es una película de romance y fantasía dirigida por Alejandro Agresti. La trama sigue a dos personas que entablan una relación a través de cartas mientras descubren que están viviendo en diferentes épocas, pero compartiendo el mismo espacio, una casa del lago. La película es conocida por su premisa única y su romance conmovedor.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "BAJO LA MISMA ESTRELLA",
+        "descripcion": "Bajo la Misma Estrella es una película de romance y drama dirigida por Josh Boone, basada en la novela de John Green. La trama sigue a dos adolescentes que se enamoran mientras luchan contra el cáncer. A medida que enfrentan sus miedos y desafíos, descubren el poder del amor y la importancia de vivir plenamente cada momento. La película es conocida por su emotiva historia y su impactante interpretación.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "UN PASEO PARA RECORDAR",
+        "descripcion": "Un Paseo para Recordar es una película de romance dirigida por Adam Shankman, basada en la novela de Nicholas Sparks. La trama sigue a un joven rebelde que se enamora de una chica religiosa y reservada, y cómo su amor transforma sus vidas para siempre. La película es conocida por su dulzura y su mensaje sobre la importancia del amor verdadero.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "BODA EN FAMILIA",
+        "descripcion": "Boda en Familia es una comedia romántica dirigida por Justin Zackham. La trama sigue a una pareja que decide celebrar su boda en la casa de campo de los padres del novio. Sin embargo, el evento se convierte en un caos cuando llegan familiares y amigos, desatando conflictos, secretos y sorpresas. La película es conocida por su humor encantador y su mensaje sobre el amor y la familia.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "CRAZY, STUPID, LOVE",
+        "descripcion": "Crazy, Stupid, Love es una comedia romántica dirigida por Glenn Ficarra y John Requa. La trama sigue a un hombre cuya vida se desmorona cuando su esposa le pide el divorcio. Con la ayuda de un mujeriego experto en citas, intenta recuperar su confianza y encontrar el verdadero amor. La película es conocida por su humor inteligente, su corazón genuino y su elenco talentoso.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "SIEMPRE A TU LADO",
+        "descripcion": "Siempre a Tu Lado es una película de romance dirigida por Lasse Hallström, basada en una historia real. La trama sigue la leal amistad entre un perro llamado Hachiko y su dueño, un profesor universitario. A pesar de la distancia y las dificultades, Hachiko espera fielmente a su amo en la estación de tren todos los días. La película es conocida por su emotiva historia y su mensaje sobre el amor incondicional.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "UN AMOR PARA RECORDAR",
+        "descripcion": "Un Amor para Recordar es una película de romance dirigida por Adam Shankman, basada en la novela de Nicholas Sparks. La trama sigue la relación entre un chico popular y una chica conservadora y piadosa, cuyo amor cambia sus vidas de maneras inesperadas. La película es conocida por su dulzura y su mensaje sobre la importancia del amor y la fe.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "EL DIARIO DE NOA",
+        "descripcion": "El Diario de Noa es una película de romance dirigida por Nick Cassavetes, basada en la novela de Nicholas Sparks. La trama sigue la historia de amor entre un joven obrero y una chica adinerada que se conocen durante el verano de 1940 en Carolina del Norte. A pesar de las adversidades y los desafíos, su amor perdura a lo largo de los años. La película es conocida por su emotiva historia y su química entre los protagonistas.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "A TODOS LOS CHICOS DE LOS QUE ME ENAMORÉ",
+        "descripcion": "A Todos los Chicos de los que Me Enamoré es una comedia romántica dirigida por Susan Johnson, basada en la novela de Jenny Han. La trama sigue a una adolescente tímida y romántica cuyas cartas de amor secretas son enviadas accidentalmente a todos los chicos de los que se ha enamorado. A medida que lidia con las consecuencias, descubre el verdadero significado del amor y la autenticidad. La película es conocida por su dulzura y su encanto juvenil.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "SI NO DESPIERTO",
+        "descripcion": "Si No Despierto es una película de romance y drama dirigida por Ry Russo-Young, basada en la novela de Lauren Oliver. La trama sigue a una joven que queda atrapada en un bucle temporal, reviviendo el mismo día una y otra vez. A medida que intenta descubrir cómo romper el ciclo, se enfrenta a decisiones difíciles sobre el amor y la vida. La película es conocida por su premisa intrigante y su exploración de temas como el destino y las segundas oportunidades.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "AL FONDO A LA DERECHA",
+        "descripcion": "Al Fondo a la Derecha es una comedia romántica italiana dirigida por Carlo Verdone. La trama sigue a un hombre divorciado y a una mujer viuda que, después de conocerse en un grupo de apoyo, deciden embarcarse juntos en un viaje por carretera a Sanremo. A medida que viajan, descubren que aún tienen mucho que aprender sobre la vida y el amor. La película es conocida por su humor encantador y sus momentos conmovedores.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "ANTES DEL AMANECER",
+        "descripcion": "Antes del Amanecer es una película de romance y drama dirigida por Richard Linklater. La trama sigue a dos jóvenes que se conocen en un tren y deciden pasar un día juntos en Viena antes de que el destino los separe. Durante su breve encuentro, comparten conversaciones profundas sobre la vida, el amor y la identidad. La película es conocida por su diálogo inteligente y su enfoque realista del romance.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "SIETE AÑOS EN EL TIBET",
+        "descripcion": "Siete Años en el Tíbet es una película de drama y romance dirigida por Jean-Jacques Annaud. La trama sigue la historia real de Heinrich Harrer, un alpinista austriaco que se convierte en amigo cercano del joven Dalai Lama durante su viaje a través del Tíbet. A medida que aprende sobre la cultura tibetana y la espiritualidad, Harrer también se enfrenta a sus propios demonios internos. La película es conocida por su belleza visual y su exploración de temas universales como la amistad y la redención.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "SIEMPRE EL MISMO DÍA",
+        "descripcion": "Siempre el Mismo Día es una película de romance y drama dirigida por Michael Sucsy, basada en la novela de David Nicholls. La trama sigue a una pareja que se encuentra en el día de su aniversario de bodas durante varias décadas, mientras navegan por los altibajos de su relación. La película es conocida por su emotiva historia y su exploración del amor a lo largo del tiempo.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "AMOR Y OTRAS DROGAS",
+        "descripcion": "Amor y Otras Drogas es una comedia romántica dirigida por Edward Zwick. La trama sigue a un vendedor farmacéutico mujeriego que se enamora de una mujer con la enfermedad de Parkinson. A medida que su relación se desarrolla, ambos enfrentan desafíos personales y profesionales que ponen a prueba su amor. La película es conocida por su humor irreverente, su química entre los protagonistas y su tratamiento honesto de temas como la enfermedad y el compromiso.",
+        "genero": "Drama"
+    },
+    {
+        "titulo": "BAJO EL MISMO CIELO",
+        "descripcion": "Bajo el Mismo Cielo es una película de romance dirigida por Patricia Riggen. La trama sigue la historia de una pareja que se encuentra en circunstancias inesperadas y se embarca en un viaje épico a través de las tierras salvajes de la frontera de Estados Unidos y México. A medida que enfrentan peligros y desafíos, su amor se fortalece y se convierte en una fuerza que trasciende las barreras. La película es conocida por su emotiva historia y su paisaje visual impresionante.",
+        "genero": "Drama"
+    }
+]
